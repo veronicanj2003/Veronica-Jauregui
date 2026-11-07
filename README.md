@@ -2,7 +2,7 @@
 
 #Hi, I'm Veronica Jauregui 👋
 
-Software engineering student building toward a career in
+Software engineering student building toward a career in software engineering and
 Governance, Risk & Compliance (GRC).
 
 ## What I'm focused on
